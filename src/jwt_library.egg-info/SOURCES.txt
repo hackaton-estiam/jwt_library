@@ -1,0 +1,10 @@
+README.md
+setup.py
+src/jwt_library/__init__.py
+src/jwt_library/jwt_manager.py
+src/jwt_library.egg-info/PKG-INFO
+src/jwt_library.egg-info/SOURCES.txt
+src/jwt_library.egg-info/dependency_links.txt
+src/jwt_library.egg-info/requires.txt
+src/jwt_library.egg-info/top_level.txt
+tests/test_jwt_manager.py
